@@ -43,7 +43,7 @@ Wenn du zur ``Scharleitung`` oder zu einem Organisationsteam geh√∂rst, die zust√
    :maxdepth: 1
    :caption: Lager
    
-   Lageranmeldung
+   lageranmeldung
 
 
 .. toctree::
